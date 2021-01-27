@@ -1,0 +1,24 @@
+{
+  "name": "transpiler-template1",
+  "private": true,
+  "version": "1.0.0",
+  "description": "template",
+  "scripts": {
+    "test": "abaplint && rm -rf output && abap_transpile && node run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abaplint/transpiler-template1.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/abaplint/transpiler-template1/issues"
+  },
+  "homepage": "https://github.com/abaplint/transpiler-template1#readme",
+  "dependencies": {
+    "@abaplint/cli": "^2.66.1",
+    "@abaplint/runtime": "^1.2.4",
+    "@abaplint/transpiler-cli": "^1.2.4"
+  }
+}
