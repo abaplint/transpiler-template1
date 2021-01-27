@@ -2,7 +2,9 @@
 
 One simple ABAP report
 
-Prequsites: vscode & node 12+
+Prerequsites:
+* [vscode](https://code.visualstudio.com)
+* [node](https://nodejs.org) 12+
 
 run `npm install` to install dependencies
 
