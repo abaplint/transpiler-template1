@@ -9,3 +9,5 @@ Prerequsites:
 run `npm install` to install dependencies
 
 run `npm test` to run the ABAP report
+
+run `npm update` to update linter and transpiler to latest version

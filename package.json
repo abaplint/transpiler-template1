@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/abaplint/transpiler-template1#readme",
   "dependencies": {
-    "@abaplint/cli": "^2.66.1",
+    "@abaplint/cli": "^2.66.2",
     "@abaplint/runtime": "^1.2.4",
     "@abaplint/transpiler-cli": "^1.2.4"
   }
